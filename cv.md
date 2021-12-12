@@ -29,3 +29,10 @@ exports.avg = function avg (array) {
 };
   };
  ```
+## EDUCATION :
+ **BELARUS STATE ECONOMIC UNIVERSITY, Faculty of Law in 2016**
+ - HTMLAcademy: HTML & CSS basics;
+ - learn.javascript.ru
+
+## ENGLISH LEVEL:
+B1+
